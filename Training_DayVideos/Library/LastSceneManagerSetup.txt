@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/PiscineUnity_d00_ex00.unity
-  isLoaded: 1
-  isActive: 1
